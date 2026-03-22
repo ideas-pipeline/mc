@@ -478,9 +478,9 @@ function isEditAuthed() {
 
 // === LOCAL API HELPERS (no GitHub) ===
 async function readLocalJSON(endpoint) {
-  // Try with base path first, then fallback paths
+  // GitHub Pages: fetch static JSON files from data/
   const base = getApiBase();
-  const urls = [base + endpoint, '/mc/' + endpoint, '/' + endpoint];
+  const urls = [base + endpoint + '.json', base + endpoint, '/mc/' + endpoint];
   for (const url of urls) {
     try {
       const res = await fetch(url);
@@ -584,7 +584,7 @@ async function fetchIdeas() {
 async function fetchSuggestions() {
   try {
     const base = getApiBase();
-    const res = await fetch(base + 'suggestions');
+    const res = await fetch(base + 'suggestions.json');
     if (res.ok) {
       const all = await res.json();
       suggestionsData = all.filter(s => s.status === 'pending' || !s.status);
@@ -648,7 +648,7 @@ async function approveSuggestion(id) {
   try {
     // 1. Load fresh suggestions from API
     const base = getApiBase();
-    const sugRes = await fetch(base + 'suggestions');
+    const sugRes = await fetch(base + 'suggestions.json');
     if (!sugRes.ok) throw new Error('Failed to load suggestions');
     const suggestions = await sugRes.json();
 
@@ -665,7 +665,7 @@ async function approveSuggestion(id) {
     if (!saveSugRes.ok) throw new Error('Failed to save suggestions');
 
     // 3. Add to ideas inbox
-    const ideasRes = await fetch(base + 'ideas');
+    const ideasRes = await fetch(base + 'ideas.json');
     if (!ideasRes.ok) throw new Error('Failed to load ideas');
     const ideas = await ideasRes.json();
 
@@ -699,7 +699,7 @@ async function rejectSuggestion(id) {
   if (!checkToken()) return;
   try {
     const base = getApiBase();
-    const sugRes = await fetch(base + 'suggestions');
+    const sugRes = await fetch(base + 'suggestions.json');
     if (!sugRes.ok) throw new Error('Failed to load suggestions');
     const suggestions = await sugRes.json();
 
