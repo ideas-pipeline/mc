@@ -1,0 +1,42 @@
+{
+  "lastUpdated": "2026-03-22T03:18:11Z",
+  "columns": {
+    "inbox": {
+      "name": "📥 Inbox",
+      "color": "#f59e0b",
+      "items": [
+        {
+          "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+          "desc": "Show HN: Jido 2.0, Elixir Agent Framework",
+          "tag": "tech",
+          "movedAt": 1772756017
+        },
+        {
+          "title": "GitHub Security Scanner",
+          "desc": "أداة فحص أمني أوتوماتيكي للكود باستخدام AI - تبني على نموذج CyberStrikeAI",
+          "tag": "security"
+        }
+      ]
+    },
+    "doit": {
+      "name": "🚀 Do It",
+      "color": "#ef4444",
+      "items": []
+    },
+    "explain": {
+      "name": "🔍 Explain",
+      "color": "#3b82f6",
+      "items": []
+    },
+    "dontdoit": {
+      "name": "🚫 Don't Do It",
+      "color": "#6b7280",
+      "items": []
+    },
+    "done": {
+      "name": "✅ Done",
+      "color": "#10b981",
+      "items": []
+    }
+  }
+}

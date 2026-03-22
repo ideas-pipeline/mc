@@ -1,0 +1,95 @@
+{
+  "lastUpdated": "2026-03-22T19:38:50Z",
+  "agents": {
+    "هادي أوبس": {
+      "status": "active",
+      "current": "مراقبة النظام + مراجعة المخرجات",
+      "history": [
+        {
+          "task": "مراجعة وتوقيع مخرجات الفريق",
+          "time": "00:30",
+          "result": "✅"
+        },
+        {
+          "task": "إصلاح خطأ kpi-pending-suggestions",
+          "time": "00:25",
+          "result": "✅"
+        },
+        {
+          "task": "توزيع 9 مهام على الفريق",
+          "time": "23:35",
+          "result": "✅"
+        }
+      ]
+    },
+    "هادي سونيت": {
+      "status": "active",
+      "current": "متاح للمهام",
+      "history": [
+        {
+          "task": "ac9bab33-1306-44f4-88fa-86dbe7e9af50",
+          "time": "?",
+          "result": "✅"
+        }
+      ]
+    },
+    "هادي جي بي": {
+      "status": "active",
+      "current": "متاح للمهام",
+      "history": [
+        {
+          "task": "vc-weekly-scan",
+          "time": "?",
+          "result": "❌"
+        },
+        {
+          "task": "watchlist-accuracy-evening",
+          "time": "?",
+          "result": "❌"
+        },
+        {
+          "task": "watchlist-accuracy",
+          "time": "?",
+          "result": "✅"
+        }
+      ]
+    },
+    "هادي ميني": {
+      "status": "active",
+      "current": "متاح للمهام",
+      "history": [
+        {
+          "task": "إصلاح خطأ kpi textContent",
+          "time": "00:32",
+          "result": "✅"
+        },
+        {
+          "task": "إصلاح HOW-THINGS-WORK.md",
+          "time": "00:20",
+          "result": "✅"
+        },
+        {
+          "task": "CNAME + DNS setup لـ saif-sadeem.com",
+          "time": "23:36",
+          "result": "✅"
+        }
+      ]
+    },
+    "الباحث": {
+      "status": "active",
+      "current": "بحث ويب للتقارير",
+      "history": [
+        {
+          "task": "بحث أخبار AI للتقرير التقني",
+          "time": "12:00",
+          "result": "✅"
+        },
+        {
+          "task": "بحث بيانات اقتصادية",
+          "time": "08:15",
+          "result": "✅"
+        }
+      ]
+    }
+  }
+}

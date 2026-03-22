@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "mmb0vqn2",
+    "title": "they stole Claude’s brain 16 million times",
+    "desc": "NetworkChuck: they stole Claude’s brain 16 million times (Views: 30150)",
+    "tag": "tech",
+    "source": "NetworkChuck: they stole Claude’s brain 16 million times (Views: 30150)",
+    "sourceUrl": "https://youtube.com/watch?v=lO961HRQn5Q",
+    "createdAt": "2026-03-03T19:50:30.302Z",
+    "status": "approved"
+  },
+  {
+    "id": "mmb0vqnz",
+    "title": "Claude Code on your Phone is OFFICIAL (it changes  everything)",
+    "desc": "NetworkChuck: Claude Code on your Phone is OFFICIAL (it changes  everything) (Views: 177317)",
+    "tag": "tech",
+    "source": "NetworkChuck: Claude Code on your Phone is OFFICIAL (it changes  everything) (Views: 177317)",
+    "sourceUrl": "https://youtube.com/watch?v=ocQ7ZKhHU5Q",
+    "createdAt": "2026-03-03T19:50:30.335Z",
+    "status": "approved"
+  },
+  {
+    "id": "mmb0vurf",
+    "title": "Super Nested Claude Code Is Vibecoding On STEROIDS",
+    "desc": "All About AI: Super Nested Claude Code Is Vibecoding On STEROIDS (Views: 3539)",
+    "tag": "tech",
+    "source": "All About AI: Super Nested Claude Code Is Vibecoding On STEROIDS (Views: 3539)",
+    "sourceUrl": "https://youtube.com/watch?v=BlyJKhhbzwA",
+    "createdAt": "2026-03-03T19:50:35.643Z",
+    "status": "approved"
+  },
+  {
+    "id": "mmb0vus9",
+    "title": "Claude Code AI Agent Controls Claude Code On Twitch",
+    "desc": "All About AI: Claude Code AI Agent Controls Claude Code On Twitch (Views: 1400)",
+    "tag": "tech",
+    "source": "All About AI: Claude Code AI Agent Controls Claude Code On Twitch (Views: 1400)",
+    "sourceUrl": "https://youtube.com/watch?v=rtTuXAvS2yw",
+    "createdAt": "2026-03-03T19:50:35.673Z",
+    "status": "approved"
+  },
+  {
+    "id": "mmb0vut4",
+    "title": "I Let My AI Agent Run for 504 Hours Straight — Here's What Happened",
+    "desc": "All About AI: I Let My AI Agent Run for 504 Hours Straight — Here's What Happened (Views: 7047)",
+    "tag": "tech",
+    "source": "All About AI: I Let My AI Agent Run for 504 Hours Straight — Here's What Happened (Views: 7047)",
+    "sourceUrl": "https://youtube.com/watch?v=O_5vugzgoik",
+    "createdAt": "2026-03-03T19:50:35.704Z",
+    "status": "approved"
+  },
+  {
+    "id": "mmb0w0nc",
+    "title": "Claude's Cycles [pdf]",
+    "desc": "HN: Claude's Cycles [pdf] (Score: 300)",
+    "tag": "tech",
+    "source": "HN: Claude's Cycles [pdf] (Score: 300)",
+    "sourceUrl": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "createdAt": "2026-03-03T19:50:43.272Z",
+    "status": "approved"
+  },
+  {
+    "id": "mmb0w0t9",
+    "title": "Quoting claude.com/import-memory",
+    "desc": "Simon Willison: Quoting claude.com/import-memory",
+    "tag": "tech",
+    "source": "Simon Willison: Quoting claude.com/import-memory",
+    "sourceUrl": "https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything",
+    "createdAt": "2026-03-03T19:50:43.485Z",
+    "status": "approved"
+  },
+  {
+    "title": "GPT-5.4",
+    "desc": "GPT-5.4",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-5-4/",
+    "source": "HN: GPT-5.4 (Score: 297)",
+    "status": "approved",
+    "date": "2026-03-05",
+    "id": "7jl3as9s"
+  },
+  {
+    "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+    "desc": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+    "sourceUrl": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+    "source": "HN: Pentagon Formally Labels Anthropic Suppl (Score: 144)",
+    "status": "approved",
+    "date": "2026-03-05",
+    "id": "fdb680oo"
+  },
+  {
+    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+    "desc": "Show HN: Jido 2.0, Elixir Agent Framework",
+    "sourceUrl": "https://jido.run/blog/jido-2-0-is-here",
+    "source": "HN: Show HN: Jido 2.0, Elixir Agent Framewor (Score: 182)",
+    "status": "approved",
+    "date": "2026-03-05",
+    "id": "ainhp675"
+  },
+  {
+    "title": "OpenAI pivot investors love",
+    "desc": "OpenAI pivot investors love",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1rh2lew/openai_pivot_investors_love/",
+    "source": "r/LocalLLaMA: OpenAI pivot investors love (Score: 2193)",
+    "status": "rejected",
+    "date": "2026-03-05",
+    "id": "gx4bbx35"
+  },
+  {
+    "title": "Junyang Lin has left Qwen :(",
+    "desc": "https://preview.redd.it/4fjzkqelxumg1.png?width=1178&amp;format=png&amp;auto=webp&amp;s=c6b0015cec7f0970b412b41d52548a90e949c13b\n\nThank him for his contributions to local LLM",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1rjtzyn/junyang_lin_has_left_qwen/",
+    "source": "r/LocalLLaMA: Junyang Lin has left Qwen :( (Score: 1075)",
+    "status": "rejected",
+    "date": "2026-03-05",
+    "id": "sys79l02"
+  },
+  {
+    "title": "Reverse engineered Apple Neural Engine(ANE) to train Microgpt",
+    "desc": "# Why? Because i bought a mac mini M4 and I wanted to leverage its compute for my compiler project\n\nTraining on Metal(GPU) is well known but ANE is a black box and Apple doesn't talk about it. So I ha",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1rhx5pc/reverse_engineered_apple_neural_engineane_to/",
+    "source": "r/LocalLLaMA: Reverse engineered Apple Neural Engine(A (Score: 733)",
+    "status": "approved",
+    "date": "2026-03-05",
+    "id": "x2dlp8y1"
+  },
+  {
+    "title": "This will be interesting to self-host.",
+    "desc": "When I bought my first GoPro (hero 8) I also bought a 256 GB micro SD card and GoPro's cloud storage subscription for $5/month. I rode my bicycle around town and to work every day, I went to family ou",
+    "sourceUrl": "https://reddit.com/r/selfhosted/comments/1rirc31/this_will_be_interesting_to_selfhost/",
+    "source": "r/selfhosted: This will be interesting to self-host. (Score: 2151)",
+    "status": "rejected",
+    "date": "2026-03-05",
+    "id": "uj2oaeuc"
+  },
+  {
+    "title": "Grafana dashboard to tell me how expensive my hobby is",
+    "desc": "Over the last couple of months I have used Claude Code extensively to build out a robust Kubernetes cluster on the Proxmox servers in my rack. I had it set up a nice logging and observability stack wi",
+    "sourceUrl": "https://reddit.com/r/selfhosted/comments/1rgh646/grafana_dashboard_to_tell_me_how_expensive_my/",
+    "source": "r/selfhosted: Grafana dashboard to tell me how expensi (Score: 1395)",
+    "status": "approved",
+    "date": "2026-03-05",
+    "id": "hgr1bm9w"
+  },
+  {
+    "title": "googleworkspace/cli",
+    "desc": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "sourceUrl": "https://github.com/googleworkspace/cli",
+    "source": "GitHub: googleworkspace/cli ⭐10799",
+    "status": "approved",
+    "date": "2026-03-05",
+    "id": "6e8w0yoh"
+  },
+  {
+    "title": "phuryn/pm-skills",
+    "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "sourceUrl": "https://github.com/phuryn/pm-skills",
+    "source": "GitHub: phuryn/pm-skills ⭐1156",
+    "status": "pending",
+    "date": "2026-03-05",
+    "id": "nukhrgd1"
+  },
+  {
+    "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+    "desc": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
+    "sourceUrl": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+    "source": "dev.to: Jon Gottfried",
+    "status": "pending",
+    "date": "2026-03-05",
+    "id": "luvz4073"
+  },
+  {
+    "title": "I Run a Solo Company with AI Agent Departments",
+    "desc": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+    "sourceUrl": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+    "source": "dev.to: João Pedro Silva Setas",
+    "status": "pending",
+    "date": "2026-03-05",
+    "id": "2w0yk3aq"
+  },
+  {
+    "title": "I Created An Enterprise MCP Gateway",
+    "desc": "When you start building AI applications beyond simple experiments, everything changes. Models need...",
+    "sourceUrl": "https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg",
+    "source": "dev.to: Anthony Max",
+    "status": "pending",
+    "date": "2026-03-05",
+    "id": "y8cl0zjm"
+  },
+  {
+    "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
+    "desc": "Can coding agents relicense open source through a “clean room” implementation of code?",
+    "sourceUrl": "https://simonwillison.net/2026/Mar/5/chardet/#atom-everything",
+    "source": "Simon Willison: Can coding agents relicense open source through a ",
+    "status": "pending",
+    "date": "2026-03-05",
+    "id": "hnwm7jw4"
+  },
+  {
+    "title": "LeoYeAI/openclaw-master-skills",
+    "desc": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
+    "sourceUrl": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "source": "GitHub: LeoYeAI/openclaw-master-skills ⭐1150",
+    "status": "pending",
+    "date": "2026-03-06"
+  },
+  {
+    "title": "slowmist/openclaw-security-practice-guide",
+    "desc": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+    "sourceUrl": "https://github.com/slowmist/openclaw-security-practice-guide",
+    "source": "GitHub: slowmist/openclaw-security-practice-guide ⭐1138",
+    "status": "pending",
+    "date": "2026-03-06"
+  },
+  {
+    "title": "Introducing GPT‑5.4",
+    "desc": "Introducing GPT‑5.4",
+    "sourceUrl": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything",
+    "source": "Simon Willison: Introducing GPT‑5.4",
+    "status": "pending",
+    "date": "2026-03-06"
+  },
+  {
+    "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+    "desc": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+    "sourceUrl": "",
+    "source": "HN: Tell HN: I'm 60 years old. Claude Code h (Score: 128)",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "desc": "A tool that removes censorship from open-weight LLMs",
+    "sourceUrl": "https://github.com/elder-plinius/OBLITERATUS",
+    "source": "HN: A tool that removes censorship from open (Score: 129)",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Ran Qwen 3.5 9B on M1 Pro (16GB) as an actual agent, not just a chat demo. Honest results.",
+    "desc": "Quick context: I run a personal automation system built on Claude Code. It's model-agnostic, so switching to Ollama was a one-line config change, nothing else needed to change. I pointed it at Qwen 3.",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1rll349/ran_qwen_35_9b_on_m1_pro_16gb_as_an_actual_agent/",
+    "source": "r/LocalLLaMA: Ran Qwen 3.5 9B on M1 Pro (16GB) as an a (Score: 889)",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "LeoYeAI/openclaw-guardian",
+    "desc": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
+    "sourceUrl": "https://github.com/LeoYeAI/openclaw-guardian",
+    "source": "GitHub: LeoYeAI/openclaw-guardian ⭐990",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "How Claude Skills Replaced Our Documentation",
+    "desc": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+    "sourceUrl": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+    "source": "dev.to: Magnus Rødseth",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Our Trading Bot Rewrites Its Own Rules. Here's How (and What Went Wrong).",
+    "desc": "We lost $100 on a single hockey bet. Our system had an 83% win rate at the time. The math still...",
+    "sourceUrl": "https://dev.to/ai-agent-economy/our-trading-bot-rewrites-its-own-rules-heres-how-and-what-went-wrong-5dg9",
+    "source": "dev.to: Bill Wilson",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Agentic manual testing",
+    "desc": "Agentic manual testing",
+    "sourceUrl": "https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything",
+    "source": "Simon Willison: Agentic manual testing",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "desc": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "sourceUrl": "",
+    "source": "HN: Tell HN: I'm 60 years old. Claude Code h (Score: 939)",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "desc": "LLMs work best when the user defines their acceptance criteria first",
+    "sourceUrl": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "source": "HN: LLMs work best when the user defines the (Score: 402)",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Your first 72 hours with OpenClaw will determine if you keep using it. Here's the setup most people skip",
+    "desc": "Everyone's first instinct with OpenClaw is to build a dashboard. Command centers, mission control, fancy UI, it looks great on Twitter and it's a comp",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1riudg5/your_first_72_hours_with_openclaw_will_determine/",
+    "source": "r/OpenClaw: Your first 72 hours with OpenClaw w",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "I went through 218 OpenClaw tools so you don’t have to, here are the best ones by category",
+    "desc": "I’ve been exploring the OpenClaw ecosystem lately and ended up collecting **218 OpenClaw-related tools**.\n\nThere’s a lot of cool stuff out there, but",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rmgt2m/i_went_through_218_openclaw_tools_so_you_dont/",
+    "source": "r/OpenClaw: I went through 218 OpenClaw tools s",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Stop using OpenClaw out-of-the-box (You are burning your API tokens). Here are 3 local tools to fix its memory, web browsing, and email.",
+    "desc": "So you install OpenClaw. You plug in your API keys. You sit back thinking, *alright, let’s go.*\n\nAnd then… a few hours later… you start noticing thing",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rkxr9g/stop_using_openclaw_outofthebox_you_are_burning/",
+    "source": "r/OpenClaw: Stop using OpenClaw out-of-the-box ",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "OpenClaw 102: Updates from my 101 on how to get the most from your OpenClaw bot",
+    "desc": "I have been getting lots of DMs on how to set things up more efficiently in OpenClaw following my previous posts, so I think it's about time to go int",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1riiglv/openclaw_102_updates_from_my_101_on_how_to_get/",
+    "source": "r/OpenClaw: OpenClaw 102: Updates from my 101 o",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Me, every time I touch the openclaw.json",
+    "desc": "It's always followed by errors and hunting for the stuff I broke.",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1ri9nt0/me_every_time_i_touch_the_openclawjson/",
+    "source": "r/OpenClaw: Me, every time I touch the openclaw",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Got fooled buy the Openclaw hype. Bought a Mac Mini, installed Openclaw, spent 200$ in Opus. Lesson: don't believe the hype, it's full of bugs.",
+    "desc": "Will comeback in 6 months.",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rjhyn8/got_fooled_buy_the_openclaw_hype_bought_a_mac/",
+    "source": "r/OpenClaw: Got fooled buy the Openclaw hype. B",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "The OpenClaw ecosystem is bigger than you think — 14 plugins &amp; skills ranked",
+    "desc": "been running openclaw for a few months. here's what survived the cut.\n\n**plugins**\n\ncomposio — managed oauth for 860+ apps, no api keys in your env. h",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rlptnf/the_openclaw_ecosystem_is_bigger_than_you_think/",
+    "source": "r/OpenClaw: The OpenClaw ecosystem is bigger th",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "I've been lurking r/openclaw for weeks. the dropout pattern is always the same.",
+    "desc": "I've been replying to help threads in r/openclaw for weeks now. the same story plays out every time.\n\nweek 1: someone sees a viral tweet, gets hyped,",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rkjcva/ive_been_lurking_ropenclaw_for_weeks_the_dropout/",
+    "source": "r/OpenClaw: I've been lurking r/openclaw for we",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Claude has overtaken ChatGPT in the Apple App Store",
+    "desc": "Claude has overtaken ChatGPT in the Apple App Store",
+    "sourceUrl": "https://reddit.com/r/ChatGPT/comments/1rhh9p2/claude_has_overtaken_chatgpt_in_the_apple_app/",
+    "source": "r/ChatGPt: Claude has overtaken ChatGPT in the",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "1.5 Million Users Leave ChatGPT",
+    "desc": "1.5 Million Users Leave ChatGPT",
+    "sourceUrl": "https://reddit.com/r/ChatGPT/comments/1rk2y0g/15_million_users_leave_chatgpt/",
+    "source": "r/ChatGPt: 1.5 Million Users Leave ChatGPT",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Common ChatGPT answer😂😭",
+    "desc": "Common ChatGPT answer😂😭",
+    "sourceUrl": "https://reddit.com/r/ChatGPT/comments/1rlj933/common_chatgpt_answer/",
+    "source": "r/ChatGPt: Common ChatGPT answer😂😭",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "OpenAI loses 1.5 million subscribers in less than 48 hours after CEO Sam Altman says yes to the deal that Anthropic rejected",
+    "desc": "Wow!!!",
+    "sourceUrl": "https://reddit.com/r/ChatGPT/comments/1rkd4td/openai_loses_15_million_subscribers_in_less_than/",
+    "source": "r/ChatGPt: OpenAI loses 1.5 million subscriber",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
+    "desc": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/",
+    "source": "r/artificial: Claude hits No. 1 on App Store as C",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B",
+    "desc": "OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/",
+    "source": "r/artificial: OpenAI eyes global domination with ",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict",
+    "desc": "Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/",
+    "source": "r/artificial: Pentagon Formally Labels Anthropic ",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "ChatGPT Uninstalls Surge 295% After OpenAI’s DoD Deal Sparks Backlash",
+    "desc": "ChatGPT Uninstalls Surge 295% After OpenAI’s DoD Deal Sparks Backlash",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/",
+    "source": "r/artificial: ChatGPT Uninstalls Surge 295% After",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "desc": "So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rl5wwp/llms_can_unmask_pseudonymous_users_at_scale_with/",
+    "source": "r/artificial: LLMs can unmask pseudonymous users ",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Scientists made AI agents ruder — and they performed better at complex reasoning tasks",
+    "desc": "Are we better off with ai with or without the pleasantries?",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/",
+    "source": "r/artificial: Scientists made AI agents ruder — a",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "This OpenClaw Zillow Bot Is Genius… and Kinda Evil",
+    "desc": "This OpenClaw Zillow Bot Is Genius… and Kinda Evil",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1rjtack/this_openclaw_zillow_bot_is_genius_and_kinda_evil/",
+    "source": "r/automation: This OpenClaw Zillow Bot Is Genius…",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "What AI automations are businesses actually using right now?",
+    "desc": "I keep hearing about AI automations everywhere.\n\nBut I’m curious about the real stuff businesses are using today, not the fancy ideas people talk abou",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1rlgp07/what_ai_automations_are_businesses_actually_using/",
+    "source": "r/automation: What AI automations are businesses ",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "What's the best automation for an entrepreneur?",
+    "desc": "Hey everyone, quite new to this journey so would like to pick your brain on what actually create real results and speed up your business. I know prior",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1rih7jn/whats_the_best_automation_for_an_entrepreneur/",
+    "source": "r/automation: What's the best automation for an e",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Honest Review: Which automation tool is actually worth it in 2026?",
+    "desc": "After testing 10+ tools over the last two months (Zapier, Make, n8n, Twin), here is my breakdown for anyone feeling overwhelmed:\n\n* Zapier: Still the",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1rk2000/honest_review_which_automation_tool_is_actually/",
+    "source": "r/automation: Honest Review: Which automation too",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Panniantong/Agent-Reach",
+    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub,",
+    "sourceUrl": "https://github.com/Panniantong/Agent-Reach",
+    "source": "GitHub: Panniantong/Agent-Reach ⭐6813",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "cft0808/edict",
+    "desc": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashbo",
+    "sourceUrl": "https://github.com/cft0808/edict",
+    "source": "GitHub: cft0808/edict ⭐5082",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "karpathy/autoresearch",
+    "desc": "AI agents running research on single-GPU nanochat training automatically",
+    "sourceUrl": "https://github.com/karpathy/autoresearch",
+    "source": "GitHub: karpathy/autoresearch ⭐1049",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "mksglu/context-mode",
+    "desc": "MCP is the protocol for tool access. We're the virtualization layer for context.",
+    "sourceUrl": "https://github.com/mksglu/context-mode",
+    "source": "GitHub: mksglu/context-mode ⭐2867",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "twostraws/SwiftUI-Agent-Skill",
+    "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "sourceUrl": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "source": "GitHub: twostraws/SwiftUI-Agent-Skill ⭐990",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "coleam00/excalidraw-diagram-skill",
+    "desc": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Exc",
+    "sourceUrl": "https://github.com/coleam00/excalidraw-diagram-skill",
+    "source": "GitHub: coleam00/excalidraw-diagram-sk ⭐712",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "AlexAnys/awesome-openclaw-usecases-zh",
+    "desc": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese",
+    "sourceUrl": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+    "source": "GitHub: AlexAnys/awesome-openclaw-usec ⭐948",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "sangrokjung/claude-forge",
+    "desc": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framewor",
+    "sourceUrl": "https://github.com/sangrokjung/claude-forge",
+    "source": "GitHub: sangrokjung/claude-forge ⭐426",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "aspasskiy/GoGogot",
+    "desc": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+    "sourceUrl": "https://github.com/aspasskiy/GoGogot",
+    "source": "GitHub: aspasskiy/GoGogot ⭐387",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "chenhg5/cc-connect",
+    "desc": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish",
+    "sourceUrl": "https://github.com/chenhg5/cc-connect",
+    "source": "GitHub: chenhg5/cc-connect ⭐459",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "duanyytop/agents-radar",
+    "desc": "Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI",
+    "sourceUrl": "https://github.com/duanyytop/agents-radar",
+    "source": "GitHub: duanyytop/agents-radar ⭐253",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "geekjourneyx/jina-cli",
+    "desc": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-f",
+    "sourceUrl": "https://github.com/geekjourneyx/jina-cli",
+    "source": "GitHub: geekjourneyx/jina-cli ⭐218",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "runesleo/claude-code-workflow",
+    "desc": "Battle-tested Claude Code workflow template — memory management, context engineering, and task routi",
+    "sourceUrl": "https://github.com/runesleo/claude-code-workflow",
+    "source": "GitHub: runesleo/claude-code-workflow ⭐266",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "websitebutlers/codefire-app",
+    "desc": "CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop",
+    "sourceUrl": "https://github.com/websitebutlers/codefire-app",
+    "source": "GitHub: websitebutlers/codefire-app ⭐117",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "ZhangNy301/citation-assistant",
+    "desc": "Claude Code Skill for automated academic citation workflow with Semantic Scholar API",
+    "sourceUrl": "https://github.com/ZhangNy301/citation-assistant",
+    "source": "GitHub: ZhangNy301/citation-assistant ⭐109",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "RightNow-AI/openfang",
+    "desc": "Open-source Agent Operating System",
+    "sourceUrl": "https://github.com/RightNow-AI/openfang",
+    "source": "GitHub: RightNow-AI/openfang ⭐11931",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "wevm/incur",
+    "desc": "CLI framework for agents and humans",
+    "sourceUrl": "https://github.com/wevm/incur",
+    "source": "GitHub: wevm/incur ⭐292",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "open-gitagent/gitagent",
+    "desc": "A framework-agnostic, git-native standard for defining AI agents",
+    "sourceUrl": "https://github.com/open-gitagent/gitagent",
+    "source": "GitHub: open-gitagent/gitagent ⭐137",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "numbergroup/AgentGuard",
+    "desc": "A+ Grade AI Agent Security Framework - Military-grade protection against prompt injection, command i",
+    "sourceUrl": "https://github.com/numbergroup/AgentGuard",
+    "source": "GitHub: numbergroup/AgentGuard ⭐73",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "mathiaschu/meta-ads-analyzer",
+    "desc": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-l",
+    "sourceUrl": "https://github.com/mathiaschu/meta-ads-analyzer",
+    "source": "GitHub: mathiaschu/meta-ads-analyzer ⭐234",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "glommer/codemogger",
+    "desc": "Codemogger is a code indexing library and MCP server for AI coding agents",
+    "sourceUrl": "https://github.com/glommer/codemogger",
+    "source": "GitHub: glommer/codemogger ⭐194",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "postrv/forgemax",
+    "desc": "Code Mode inspired local sandboxed MCP Gateway - collapses N servers x M tools into 2 tools (~1,000",
+    "sourceUrl": "https://github.com/postrv/forgemax",
+    "source": "GitHub: postrv/forgemax ⭐134",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "I Submitted to a Mistral Hackathon at 10pm. My Agent Built the App While I Slept.",
+    "desc": "The Mistral Worldwide Hackathon announcement showed up in my feed sometime last week. Deadline:...",
+    "sourceUrl": "https://dev.to/joozio/i-submitted-to-a-mistral-hackathon-at-10pm-my-agent-built-the-app-while-i-slept-3fd3",
+    "source": "dev.to: Pawel Jozefiak",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "I Built an AI That Automates Literature Reviews — Here's How It Works Under the Hood",
+    "desc": "If you've ever had to do a systematic literature review — the kind where you manually search...",
+    "sourceUrl": "https://dev.to/devfuad/i-built-an-ai-that-automates-literature-reviews-heres-how-it-works-under-the-hood-5gpk",
+    "source": "dev.to: Fuad Hasan",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "I Built an AI Agent That Talks to My Website Visitors So I Don't Have to Miss Leads Anymore",
+    "desc": "There's a specific type of frustration I kept running into as a freelance developer. Someone would..",
+    "sourceUrl": "https://dev.to/__aki/i-built-an-ai-agent-that-talks-to-my-website-visitors-so-i-dont-have-to-miss-leads-anymore-41cd",
+    "source": "dev.to: Muhammad Taqi",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "5 AI Prompt Engineering Techniques That Actually Work in 2026",
+    "desc": "After testing hundreds of prompts over the past year, I've identified 5 techniques that consistently",
+    "sourceUrl": "https://dev.to/k_x_3bdabdd8981a983626896/5-ai-prompt-engineering-techniques-that-actually-work-in-2026-5el",
+    "source": "dev.to: K X",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "\"Why you should count your tokens before calling the API\"",
+    "desc": "You're passing the last 10 turns of a conversation into Claude. Feels reasonable. Each message looks",
+    "sourceUrl": "https://dev.to/clawgenesis/why-you-should-count-your-tokens-before-calling-the-api-158o",
+    "source": "dev.to: Jamie Cole",
+    "status": "pending",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "OpenCode – Open source AI coding agent",
+    "desc": "OpenCode – Open source AI coding agent",
+    "sourceUrl": "https://opencode.ai/",
+    "source": "HN: OpenCode – Open source AI coding agent (Score: 516)",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Unpopular opinion: Why is everyone so hyped over OpenClaw? I cannot find any use for it.",
+    "desc": "So I spent many, many hours setting OC up. I have it running on a dedicated VPS running with the best free models on OpenRouter. \n\nNow, apart from hav",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rteu83/unpopular_opinion_why_is_everyone_so_hyped_over/",
+    "source": "r/OpenClaw: Unpopular opinion: Why is everyone ",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "I ignored all red flags to give OpenClaw root access to my life, and now we just stare at each other. What are y'all ACTUALLY using it for?",
+    "desc": "Why the hype?\n\nListen, I bought into the hype. I saw it blow past React in GitHub stars. I spent the entire weekend wrestling with port 18789, ignorin",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rtpk8e/i_ignored_all_red_flags_to_give_openclaw_root/",
+    "source": "r/OpenClaw: I ignored all red flags to give Ope",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "NemoClaw by Nvidia is a safe OpenClaw out of the box - CEO",
+    "desc": "Just saw a presentation of Nvidia’s CEO during GTC event from yesterday where he announced that they have partnered with OpenClaw CEO to create a new",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rwmhw6/nemoclaw_by_nvidia_is_a_safe_openclaw_out_of_the/",
+    "source": "r/OpenClaw: NemoClaw by Nvidia is a safe OpenCl",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Ollama's New OpenClaw Update: Free Kimi k2.5 Access",
+    "desc": "Ollama released an update integrating OpenClaw support for cloud models including Kimi k2.5. It provides free access to the Kimi k2.5 cloud model by d",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rv6su7/ollamas_new_openclaw_update_free_kimi_k25_access/",
+    "source": "r/OpenClaw: Ollama's New OpenClaw Update: Free ",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "What's the one use case of OpenClaw that made you go \"holy shit, this is amazing\"?",
+    "desc": "I've been using OpenClaw since the early Clawdbot days. A lot of people ask me what's so special about it. So I'm curious — what's a use case that gen",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rv44py/whats_the_one_use_case_of_openclaw_that_made_you/",
+    "source": "r/OpenClaw: What's the one use case of OpenClaw",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "5 OpenClaw plugins that actually make it production-ready",
+    "desc": "If you are using OpenClaw regularly, you start noticing patterns after a while.\n\nSimple tasks hit the same expensive model used for complex reasoning.",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rwcvc1/5_openclaw_plugins_that_actually_make_it/",
+    "source": "r/OpenClaw: 5 OpenClaw plugins that actually ma",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "3 weeks of Claw: my basic assistant set up",
+    "desc": "*This post was written 100% by ME. I had Claude review it for accuracy (would have forgotten to mention Telegram if not for that!) but otherwise, no L",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rx31x2/3_weeks_of_claw_my_basic_assistant_set_up/",
+    "source": "r/OpenClaw: 3 weeks of Claw: my basic assistant",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF",
+    "desc": "**This version from Jackrong currently in development:**  \n[https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](ht",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1runlpf/qwen359bclaude46opusuncensoreddistilledgguf/",
+    "source": "r/LocalLLaMA: Qwen3.5-9B-Claude-4.6-Opus-Uncensor",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Ooh, new drama just dropped 👀",
+    "desc": "For those out of the loop: cursor's new model, composer 2, is apparently built on top of Kimi K2.5 without any attribution. Even Elon Musk has jumped",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1ryv7rg/ooh_new_drama_just_dropped/",
+    "source": "r/LocalLLaMA: Ooh, new drama just dropped 👀",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Unsloth announces Unsloth Studio - a competitor to LMStudio?",
+    "desc": "Until now, LMStudio has basically been the \"go-to\" solution for more advanced LLM users in the GGUF ecosystem, but Unsloth releasing an (Apache-licens",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1rwa0f7/unsloth_announces_unsloth_studio_a_competitor_to/",
+    "source": "r/LocalLLaMA: Unsloth announces Unsloth Studio - ",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Introducing Unsloth Studio: A new open-source web UI to train and run LLMs",
+    "desc": "Hey r/LocalLlama, we're super excited to launch Unsloth Studio (Beta), a new open-source web UI to train and run LLMs in one unified local UI interfac",
+    "sourceUrl": "https://reddit.com/r/LocalLLaMA/comments/1rw9jmf/introducing_unsloth_studio_a_new_opensource_web/",
+    "source": "r/LocalLLaMA: Introducing Unsloth Studio: A new o",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Which corporate chat bot are you misusing as your free LLM right now?",
+    "desc": "I'm checking my code generated by Amazon Rufus with Chipotle's Pepper but the Pizza Hut Bot is by far and away the most reliable.",
+    "sourceUrl": "https://reddit.com/r/ChatGPT/comments/1rt93cl/which_corporate_chat_bot_are_you_misusing_as_your/",
+    "source": "r/ChatGPt: Which corporate chat bot are you mi",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Are we cooked?",
+    "desc": "I work as a developer, and before this I was copium about AI, it was a form of self defense. But in Dec 2025 I bought subscriptions to gpt codex and c",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/",
+    "source": "r/artificial: Are we cooked?",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings",
+    "desc": "Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/",
+    "source": "r/artificial: The Moltbook acquisition makes a lo",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Built an autonomous system where 5 AI models argue about geopolitical crisis outcomes: Here's what I learned about model behavior",
+    "desc": "I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) independently assess the probability of 30+ crisis scenarios twice daily",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rvhxqv/built_an_autonomous_system_where_5_ai_models/",
+    "source": "r/artificial: Built an autonomous system where 5 ",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "We almost built our agency on Zapier. Here's the $40K/year lesson that changed how we think about automation entirely.",
+    "desc": "I'm not here to sell you on a tool.\n\nI'm here to tell you the thing nobody said when I was googling \"best automation for agencies\" at 11pm, three year",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1ruvzui/we_almost_built_our_agency_on_zapier_heres_the/",
+    "source": "r/automation: We almost built our agency on Zapie",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "What are the most underrated automation tools everyone should know about?",
+    "desc": "Hi all- l constantly see posts here about the popular automation tools like N8N and Zapier! So wanted to make a specific post for the lesser know unde",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1rw2xae/what_are_the_most_underrated_automation_tools/",
+    "source": "r/automation: What are the most underrated automa",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "I built a full medical practice operations engine in n8n — 120+ nodes, 8 modules. Doctors focus on patients, the system handles the rest.",
+    "desc": "Hey everyone 👋\n\nI’ve been working on automating the operations of a small medical practice (3 providers, 5 staff). The goal was simple: eliminate as m",
+    "sourceUrl": "https://reddit.com/r/automation/comments/1rtl43m/i_built_a_full_medical_practice_operations_engine/",
+    "source": "r/automation: I built a full medical practice ope",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "tanweai/pua",
+    "desc": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed",
+    "sourceUrl": "https://github.com/tanweai/pua",
+    "source": "GitHub: tanweai/pua ⭐9283",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "pasky/chrome-cdp-skill",
+    "desc": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you a",
+    "sourceUrl": "https://github.com/pasky/chrome-cdp-skill",
+    "source": "GitHub: pasky/chrome-cdp-skill ⭐2441",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Narcooo/inkos",
+    "desc": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gat",
+    "sourceUrl": "https://github.com/Narcooo/inkos",
+    "source": "GitHub: Narcooo/inkos ⭐1930",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "garrytan/gstack",
+    "desc": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manag",
+    "sourceUrl": "https://github.com/garrytan/gstack",
+    "source": "GitHub: garrytan/gstack ⭐32784",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "desc": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cros",
+    "sourceUrl": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "source": "GitHub: wanshuiyin/Auto-claude-code-re ⭐2855",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "uditgoenka/autoresearch",
+    "desc": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy",
+    "sourceUrl": "https://github.com/uditgoenka/autoresearch",
+    "source": "GitHub: uditgoenka/autoresearch ⭐1606",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Lum1104/Understand-Anything",
+    "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, searc",
+    "sourceUrl": "https://github.com/Lum1104/Understand-Anything",
+    "source": "GitHub: Lum1104/Understand-Anything ⭐1489",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "desc": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "sourceUrl": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "source": "GitHub: FreedomIntelligence/OpenClaw-M ⭐1470",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "hyperspaceai/agi",
+    "desc": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, sh",
+    "sourceUrl": "https://github.com/hyperspaceai/agi",
+    "source": "GitHub: hyperspaceai/agi ⭐1103",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "lucija8320nhung4/HacxGPT",
+    "desc": "HacxGPT CLI — Open-source command-line interface for unrestricted AI model access with multi-provide",
+    "sourceUrl": "https://github.com/lucija8320nhung4/HacxGPT",
+    "source": "GitHub: lucija8320nhung4/HacxGPT ⭐746",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "liyupi/openclaw-guide",
+    "desc": "开源OpenClaw中文文档站，OpenClaw中文指南，支持小龙虾 AI 智能体安装部署、消息渠道接入、Agent 架构、Skills 技能配置、模型提供商、CLI 命令参考、网关运维、安全沙箱等全",
+    "sourceUrl": "https://github.com/liyupi/openclaw-guide",
+    "source": "GitHub: liyupi/openclaw-guide ⭐121",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "mrphrazer/agentic-malware-analysis",
+    "desc": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo",
+    "sourceUrl": "https://github.com/mrphrazer/agentic-malware-analysis",
+    "source": "GitHub: mrphrazer/agentic-malware-anal ⭐153",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "ankitjha67/product-architect",
+    "desc": "The most comprehensive open-source product development system. 31 AI agents. 23 frameworks. Solo fou",
+    "sourceUrl": "https://github.com/ankitjha67/product-architect",
+    "source": "GitHub: ankitjha67/product-architect ⭐87",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "knowsuchagency/mcp2cli",
+    "desc": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
+    "sourceUrl": "https://github.com/knowsuchagency/mcp2cli",
+    "source": "GitHub: knowsuchagency/mcp2cli ⭐1540",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "PatrikFehrenbach/h1-brain",
+    "desc": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
+    "sourceUrl": "https://github.com/PatrikFehrenbach/h1-brain",
+    "source": "GitHub: PatrikFehrenbach/h1-brain ⭐206",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "husnainpk/SymDex",
+    "desc": "Code-indexer MCP server for AI agents — 97% fewer tokens per lookup. Supports 13 languages, semantic",
+    "sourceUrl": "https://github.com/husnainpk/SymDex",
+    "source": "GitHub: husnainpk/SymDex ⭐122",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "CharTyr/STS2-Agent",
+    "desc": "杀戮尖塔2的MOD，将杀戮尖塔2的游戏状态与操作暴露为本地 HTTP API 包装成 MCP Server，供支持 MCP 的AI客户端直接调用",
+    "sourceUrl": "https://github.com/CharTyr/STS2-Agent",
+    "source": "GitHub: CharTyr/STS2-Agent ⭐104",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "How I give my AI agents eyes with a single API call",
+    "desc": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to wor",
+    "sourceUrl": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+    "source": "dev.to: Boehner",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Orchestrating a Team of AI Agents from a Single CLI",
+    "desc": "Published: 2026-03-13 | Target: Dev.to / Hashnode | Audience: Senior devs, DevOps engineers, ML...",
+    "sourceUrl": "https://dev.to/oxgeneral/orchestrating-a-team-of-ai-agents-from-a-single-cli-4h6",
+    "source": "dev.to: Alex",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "The Exact Prompts That Make My AI Agents Not Suck (Before/After)",
+    "desc": "Originally published in The $200/Month CEO newsletter — a weekly dispatch from a Filipino founder...",
+    "sourceUrl": "https://dev.to/the200dollarceo/the-exact-prompts-that-make-my-ai-agents-not-suck-beforeafter-4cgj",
+    "source": "dev.to: Warhol",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "3 New IteraTools Endpoints: Google Calendar, JSON Validator & RSS Feed Parser",
+    "desc": "We just shipped three new API tools for AI agents: full Google Calendar integration, a JSON validato",
+    "sourceUrl": "https://dev.to/fredpsantos33/3-new-iteratools-endpoints-google-calendar-json-validator-rss-feed-parser-11oj",
+    "source": "dev.to: Fred Santos",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "I built a free client tracker for freelancers (no login, no backend, just localStorage)",
+    "desc": "I keep seeing freelancers use Notion, Airtable, or expensive CRM tools to track their clients and...",
+    "sourceUrl": "https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f",
+    "source": "dev.to: Landolio",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "I Got Tired of Re-Explaining My Codebase to Claude Every Day - So I Built ContextKeep",
+    "desc": "The Problem: AI Amnesia   If you use AI coding assistants like Claude, GPT-4, or Cursor,...",
+    "sourceUrl": "https://dev.to/glyph_ravenops/i-got-tired-of-re-explaining-my-codebase-to-claude-every-day-so-i-built-contextkeep-26ck",
+    "source": "dev.to: Jeremy",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+    "desc": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+    "sourceUrl": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything",
+    "source": "Simon Willison: Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+    "desc": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+    "sourceUrl": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
+    "source": "Simon Willison: Autoresearching Apple's \"LLM in a Flash\" to run Qw",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+    "desc": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+    "sourceUrl": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+    "source": "Simon Willison: GPT-5.4 mini and GPT-5.4 nano, which can describe ",
+    "status": "pending",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Why Does everyone use Mac Mini’s for OpenClaw?",
+    "desc": "My cheap N150 mini pc with Ubuntu 24.04 runs great using cloud models. \n\nI eventually spun up an Ubuntu VM on my proxmox server, and now I get snapsho",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1ry1tws/why_does_everyone_use_mac_minis_for_openclaw/",
+    "source": "r/OpenClaw: Why Does everyone use Mac Mini’s fo",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "NVIDIA just announced NemoClaw at GTC, built on OpenClaw",
+    "desc": "NVIDIA just announced NemoClaw at GTC, which builds on the OpenClaw project to bring more enterprise-grade security for OpenClaw.\n\nOne of the more int",
+    "sourceUrl": "https://reddit.com/r/openclaw/comments/1rw05g5/nvidia_just_announced_nemoclaw_at_gtc_built_on/",
+    "source": "r/OpenClaw: NVIDIA just announced NemoClaw at G",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Every LLM has a default voice and it's making us all sound the same",
+    "desc": "Been building Noren mostly because this kept bothering me: every model has a default voice it falls back on. \n\nAsk five different people to rewrite th",
+    "sourceUrl": "https://reddit.com/r/ChatGPT/comments/1rz0fjz/every_llm_has_a_default_voice_and_its_making_us/",
+    "source": "r/ChatGPt: Every LLM has a default voice and i",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "We thought our system prompt was private. Turns out anyone can extract it with the right questions.",
+    "desc": "So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically",
+    "sourceUrl": "https://reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/",
+    "source": "r/artificial: We thought our system prompt was pr",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "zerobootdev/zeroboot",
+    "desc": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "sourceUrl": "https://github.com/zerobootdev/zeroboot",
+    "source": "GitHub: zerobootdev/zeroboot ⭐1678",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Infatoshi/OpenSquirrel",
+    "desc": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, C",
+    "sourceUrl": "https://github.com/Infatoshi/OpenSquirrel",
+    "source": "GitHub: Infatoshi/OpenSquirrel ⭐1225",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "jina-ai/cli",
+    "desc": "All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes.",
+    "sourceUrl": "https://github.com/jina-ai/cli",
+    "source": "GitHub: jina-ai/cli ⭐100",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "CronusL-1141/AI-company",
+    "desc": "AI Team OS — Multi-Agent Team Operating System for Claude Code. 40+ MCP tools, 22 agent templates, t",
+    "sourceUrl": "https://github.com/CronusL-1141/AI-company",
+    "source": "GitHub: CronusL-1141/AI-company ⭐98",
+    "status": "pending",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "claude-world/notebooklm-skill",
+    "desc": "NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → P",
+    "sourceUrl": "https://github.com/claude-world/notebooklm-skill",
+    "source": "GitHub: claude-world/notebooklm-skill ⭐118",
+    "status": "pending",
+    "date": "2026-03-22"
+  }
+]
