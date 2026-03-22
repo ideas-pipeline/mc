@@ -377,8 +377,14 @@ body { font-family: 'Tajawal', sans-serif; background: var(--bg); color: var(--t
 <script>
 // === VPS API (same server) ===
 function getApiBase() {
-  // GitHub Pages: static JSON files in data/
-  return './data/';
+  // Live API via Tailscale
+  const tsApi = 'https://srv1341157.tail16af71.ts.net/mc/';
+  // If on Tailscale, use relative. If on GitHub Pages, use Tailscale API.
+  if (window.location.hostname.includes('tail')) {
+    const path = window.location.pathname;
+    return path.substring(0, path.lastIndexOf('/') + 1);
+  }
+  return tsApi;
 }
 
 async function triggerAction(action, title, desc) {
